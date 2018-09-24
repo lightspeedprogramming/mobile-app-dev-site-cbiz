@@ -82,11 +82,11 @@
 		</section> <!-- /.about-content-area -->
 
 		<!-- Start Services Area -->
-		<section class="service section">
+		<section class="service section" style="padding-top: 10px">
 			<div class="container">			
 				<div class="row">
 					<div class="col-sm-8 col-xs-12 col-sm-offset-2 col-xs-offset-0">
-						<div class="section-heading">
+						<div class="section-heading" style="padding-bottom: 36px;">
 							<h2 class="title"><span>Our</span> Awesome services</h2>
 							<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p> -->
 						</div>
@@ -99,7 +99,7 @@
 							<img class="flaticon-img icon-large" src="assets/flaticons/png/android.png" alt="Icon">
 						</div>
 						<div class="service-content">
-							<a href="#"><h4>ANDROID APP DEVELOPMENT</h4></a>
+							<a ><h4>ANDROID APP DEVELOPMENT</h4></a>
 							<p>We are the Android App Developers behind 200+ Apps, which are available on a huge number of Android devices of Consumers and Businesses alike. We didn't fabricate our reputation for being a solid and trusted in Android App Development organization, medium-term. It has been the delayed consequence of various fruitful tasks, developments of more than 250 full-stack applications, for both neighborhood and in addition worldwide Android clients. The procedure that we take after to make Android Apps is figured not as per our customer's requirements but rather to their clients' needs. </p>
 						</div>
 					</div> <!-- /.service-box -->
@@ -109,7 +109,7 @@
 							<img class="flaticon-img icon-large" src="assets/flaticons/png/app-store.png" alt="Icon">
 						</div>
 						<div class="service-content">
-							<a href="#"><h4>IPHONE DEVLOPMENT</h4></a>
+							<a ><h4>IPHONE APP DEVLOPMENT</h4></a>
 							<p>Using Swift and Xcode we Develop Native iPhone applications that Get Million Downloads and Witness Skyrocketing Session Rates from Day One. </p>
 							<p>XYZ is the name behind the various iOS Apps, utilized and loved by Millions, which are uniquely crafted keeping in thought the particular plan and improvement rules related to all the cross platforms - iPad, iPhone, Apple TV, and Apple Watch. Our Reputation as a trusted in iPhone Application Development Agency has been a gradually expanding influence of all the custom local iOS application services we offer. </p>
 						</div>
@@ -120,7 +120,7 @@
 							<img class="flaticon-img icon-large" src="assets/flaticons/png/game-controller.png" alt="Icon">
 						</div>
 						<div class="service-content">
-							<a href="#"><h4>MOBILE GAME DEVELOPMENT</h4></a>
+							<a ><h4>MOBILE GAME DEVELOPMENT</h4></a>
 							<p>XYZ is a leading mobile gaming organization offering high-end mobile development benefits across platforms iPhone, iPad, Android Smartphones. We tackle the best gaming technologies in the business to create incredibly the best quality and one of a kind games that exemplifies our inventive ability, technological skills, innovative and development aptitudes. 
 								We have made a few instinctive gaming applications for Android, iOS, and platforms for various classes, for example, Puzzle Games, Racing Games, Arcade games, Adventure games and Education Games so on.
 							</p>
@@ -146,8 +146,8 @@
 							<div class="projects">
 								<div class="col-sm-12 col-md-3">
 									<div class="pro-item">
-										<h2 class="counter">254</h2>
-										<a><h3 class="achievement">Project Complete</h3></a>
+										<h2 class="counter">450</h2>
+										<a><h3 class="achievement">Project Completed</h3></a>
 									</div>
 								</div>
 								<div class="col-sm-12 col-md-3">
@@ -158,7 +158,7 @@
 								</div>
 								<div class="col-sm-12 col-md-3">
 									<div class="pro-item">
-										<h2 class="counter">700</h2>
+										<h2 class="counter">300</h2>
 										<a><h3 class="achievement">Happy Clients</h3></a>
 									</div>
 								</div>

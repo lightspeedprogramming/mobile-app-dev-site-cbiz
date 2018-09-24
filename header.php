@@ -66,18 +66,18 @@
 	<!-- Full Body Container -->
 	<div id="all-area" class="all-section">
 
-		<!-- Header Area START -->
+		<!-- Header Area Start -->
 		<header class="clearfix header" >
 
 			<!-- Start  Logo & Menu  -->
 			<div class="navbar navbar-default navbar-top">
-				<!-- <div class="fixed-top" style="text-align:center;background:#f6364d;width:100%; position:fixed;max-height: 27px;">
+				<div class="fixed-top" style="text-align:center;background:#f6364d;width:100%; position:fixed;max-height: 27px;">
 		          <div class="container">
 		            <p style="text-align:center; font-size:18px!important;margin-top:0px"><a style="color:#fff" href="mailto: contact@Xyz.com"><i class="fa fa-envelope" style="color:white;"></i> contact@Xyz.com</a></p>
 		          </div>
-        		</div> -->
+        		</div> 
 				<div class="container">
-					<div class="navbar-header">
+					<div class="navbar-header" style="margin-right: 0px;">
 						<!-- Stat Toggle Nav Link For Mobiles -->
 						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 							<i class="fa fa-bars"></i>
@@ -94,7 +94,7 @@
 						<!-- Start Navigation List -->
 						<ul class="nav navbar-nav navbar-right">
 							<li><a class="active" href="index.php">Home</a></li>
-							<li>
+							<!-- <li>
 								<a href="#">Pages</a>
 								<ul class="dropdown">
 									<li><a href="index.html">Home</a></li>
@@ -106,10 +106,10 @@
 									<li><a href="portfolio.html">Portfolio</a></li>
 									<li><a href="404.html">404 / Error</a></li>
 								</ul>
-							</li>
+							</li> -->
 							<li><a href="about.php">About</a></li>
 							<li><a href="services.php">Services</a></li>
-							<li>
+							<!-- <li>
 								<a href="blog.html">Blog</a>
 								<ul class="dropdown">
 									<li><a href="blog2.html">Blog No Sidebar</a></li>
@@ -118,7 +118,7 @@
 									<li><a href="single.html">Single right Sidebar</a></li>
 									<li><a href="single-left-sidebar.html">Single Left Sidebar</a></li>
 								</ul>
-							</li>
+							</li> -->
 							<li><a href="contact.php">Contact</a></li>
 						</ul>
 						<!-- End Navigation List -->
@@ -129,29 +129,13 @@
 				<!-- Mobile Menu Start -->
 				<ul class="wpb-mobile-menu">
 					<li><a class="active" href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
 					<li>
 						<a href="services.php">Services</a>
 						<ul class="dropdown">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="services.html">Services</a></li>
-							<li><a href="blog.html">Blog</a></li>
-							<li><a href="contact.html">Contact</a></li>
-							<li><a href="team.html">Team</a></li>
-							<li><a href="portfolio.html">Portfolio</a></li>
-							<li><a href="404.html">404 / Error</a></li>
-						</ul>
-					</li>
-					<li><a href="about.html">About</a></li>
-					<li><a href="services.php">Services</a></li>
-					<li>
-						<a href="blog.html">Blog</a>
-						<ul class="dropdown">
-							<li><a href="blog2.html">Blog No Sidebar</a></li>
-							<li><a href="blog.html">Blog Right Sidebar</a></li>
-							<li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-							<li><a href="single.html">Single right Sidebar</a></li>
-							<li><a href="single-left-sidebar.html">Single Left Sidebar</a></li>
+							<li><a href="android-app-dev.php">Android App Development</a></li>
+							<li><a href="game-dev.php">Game Development</a></li>
+							<li><a href="iphone-app.php">iPhone App Development</a></li>
 						</ul>
 					</li>
 					<li><a href="contact.html">Contact</a></li>

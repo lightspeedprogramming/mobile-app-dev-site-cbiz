@@ -48,7 +48,7 @@
 								<img src="assets/images/iphone.jpg" alt="Features">
 							</div>
 							<div class="caption">
-								<a href="#"><h4 class="gen-title">IPHONE DEVLOPMENT</h4></a>
+								<a href="#"><h4 class="gen-title">IPHONE APP DEVLOPMENT</h4></a>
 								<p>Using Swift and Xcode we Develop Native iPhone applications that Get Million Downloads and Witness Skyrocketing Session Rates from Day One. </p>
 							</div>
 							<div class="re-time">

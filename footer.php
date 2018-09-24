@@ -10,7 +10,7 @@
 										<a href="index.html"><!-- <img src="assets/images/logo.png" alt="Logo"> -->About Us</a>
 									</div>
 									<div class="wi-content">
-										<p>t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that.</p>
+										<p>Our organization XYZ has turned into a main driver in mobile application development giving design and development innovation to each mobile application platform, including iPhone, Android. </p>
 										
 									</div>
 								</div> <!-- /.widget -->
@@ -22,9 +22,9 @@
 									</div>
 									<div class="wi-content wi-tags-my">
 										<ul>
-											<li><a href="#">UI Design</a></li>
-											<li><a href="#">Web Design</a></li>
-											<li><a href="#">HTML</a></li>
+											<li><a href="android-app-dev.php">Android app Development</a></li>
+											<li><a href="iphone-app.php">iPhone App Developemnt</a></li>
+											<li><a href="game-dev.php">Mobile Game Development</a></li>
 											
 										</ul>
 									</div> <!-- /.wi-content -->
